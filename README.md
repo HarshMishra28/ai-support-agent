@@ -182,7 +182,7 @@ POST /api/chat
 
 - [x] Phase 0 — Development environment setup
 - [x] Phase 1 — Spring Boot project setup + MySQL connection
-- [ ] Phase 2 — ChatController + ChatService + basic REST API
+- [x] Phase 2 — ChatController + ChatService + basic REST API
 - [ ] Phase 3 — RAG pipeline + LangChain4j integration
 - [ ] Phase 4 — Chat UI + knowledge base management
 - [ ] Phase 5 — Polish + demo video + deployment
